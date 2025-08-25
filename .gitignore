@@ -1,3 +1,7 @@
+# Test files
+sales_relatory_tmp.xlsx
+~$*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
